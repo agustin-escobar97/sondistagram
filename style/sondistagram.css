@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: white;
+}
+
+.container{
+    padding: 20px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    border-radius: 8px;
+    padding: 3px;
+    width: 236px;
+    height: 30px;
+    overflow: hidden;
+}
+
+.pfp{
+    height: 2em;
+    width: 2em;
+    overflow: hidden;
+    border-radius: 60px;
+}
+
+.botones{
+    margin-left: 5px;
+}
+
+hr{
+    border: none;
+    color:#000000;
+    background-color:#000000;
+    height: 1px;
+}
+
+
